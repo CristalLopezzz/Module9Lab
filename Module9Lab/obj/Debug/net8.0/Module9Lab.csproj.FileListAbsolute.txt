@@ -1,0 +1,15 @@
+/workspaces/Module9Lab/Module9Lab/bin/Debug/net8.0/Module9Lab
+/workspaces/Module9Lab/Module9Lab/bin/Debug/net8.0/Module9Lab.deps.json
+/workspaces/Module9Lab/Module9Lab/bin/Debug/net8.0/Module9Lab.runtimeconfig.json
+/workspaces/Module9Lab/Module9Lab/bin/Debug/net8.0/Module9Lab.dll
+/workspaces/Module9Lab/Module9Lab/bin/Debug/net8.0/Module9Lab.pdb
+/workspaces/Module9Lab/Module9Lab/obj/Debug/net8.0/Module9Lab.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Module9Lab/Module9Lab/obj/Debug/net8.0/Module9Lab.AssemblyInfoInputs.cache
+/workspaces/Module9Lab/Module9Lab/obj/Debug/net8.0/Module9Lab.AssemblyInfo.cs
+/workspaces/Module9Lab/Module9Lab/obj/Debug/net8.0/Module9Lab.csproj.CoreCompileInputs.cache
+/workspaces/Module9Lab/Module9Lab/obj/Debug/net8.0/Module9Lab.sourcelink.json
+/workspaces/Module9Lab/Module9Lab/obj/Debug/net8.0/Module9Lab.dll
+/workspaces/Module9Lab/Module9Lab/obj/Debug/net8.0/refint/Module9Lab.dll
+/workspaces/Module9Lab/Module9Lab/obj/Debug/net8.0/Module9Lab.pdb
+/workspaces/Module9Lab/Module9Lab/obj/Debug/net8.0/Module9Lab.genruntimeconfig.cache
+/workspaces/Module9Lab/Module9Lab/obj/Debug/net8.0/ref/Module9Lab.dll
